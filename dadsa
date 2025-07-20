@@ -1,0 +1,15 @@
+* [33m927efe3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Penambahan Upload dan delete
+[31m|[m * [33m0f84ddf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m perbaikan path main.jsx dari sigit
+[31m|[m[31m/[m  
+* [33mb0c1a4c[m Perbaikan recharts untuk deploy
+* [33mbf33cce[m Mebambahkan vercel.json
+* [33md6c6ba3[m penambahan Pie chart
+* [33m3711581[m fix: add vite to devDependencies for Vercel build
+* [33mcf01709[m Perbaikan komponen Vercel
+* [33mc5bd5d5[m Replace Style dari sigit
+* [33m2d79cd7[m Tambahan Backend agar terhubung ke database
+* [33ma364774[m Finish
+* [33mb3962fa[m Menambah bagian Banner,Contactdan gallerycomp
+* [33m0a2b63b[m Ini tambahan dari hida
+* [33m51bcdb3[m Ini perbaikan dari sigit
+* [33md2161ed[m Ini dari sigit
